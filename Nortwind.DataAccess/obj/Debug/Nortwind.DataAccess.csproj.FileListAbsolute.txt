@@ -1,0 +1,12 @@
+D:\repos\NLayeredAppDemo\Nortwind.DataAccess\bin\Debug\Nortwind.DataAccess.dll.config
+D:\repos\NLayeredAppDemo\Nortwind.DataAccess\bin\Debug\Nortwind.DataAccess.dll
+D:\repos\NLayeredAppDemo\Nortwind.DataAccess\bin\Debug\Nortwind.DataAccess.pdb
+D:\repos\NLayeredAppDemo\Nortwind.DataAccess\bin\Debug\EntityFramework.dll
+D:\repos\NLayeredAppDemo\Nortwind.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\repos\NLayeredAppDemo\Nortwind.DataAccess\bin\Debug\Nortwind.Entities.dll
+D:\repos\NLayeredAppDemo\Nortwind.DataAccess\bin\Debug\Nortwind.Entities.pdb
+D:\repos\NLayeredAppDemo\Nortwind.DataAccess\bin\Debug\EntityFramework.xml
+D:\repos\NLayeredAppDemo\Nortwind.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\repos\NLayeredAppDemo\Nortwind.DataAccess\obj\Debug\Nortwind.DataAccess.csprojResolveAssemblyReference.cache
+D:\repos\NLayeredAppDemo\Nortwind.DataAccess\obj\Debug\Nortwind.DataAccess.dll
+D:\repos\NLayeredAppDemo\Nortwind.DataAccess\obj\Debug\Nortwind.DataAccess.pdb

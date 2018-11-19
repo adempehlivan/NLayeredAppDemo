@@ -1,0 +1,5 @@
+D:\repos\NLayeredAppDemo\Nortwind.Entities\bin\Debug\Nortwind.Entities.dll
+D:\repos\NLayeredAppDemo\Nortwind.Entities\bin\Debug\Nortwind.Entities.pdb
+D:\repos\NLayeredAppDemo\Nortwind.Entities\obj\Debug\Nortwind.Entities.dll
+D:\repos\NLayeredAppDemo\Nortwind.Entities\obj\Debug\Nortwind.Entities.pdb
+D:\repos\NLayeredAppDemo\Nortwind.Entities\obj\Debug\Nortwind.Entities.csprojResolveAssemblyReference.cache
